@@ -1,0 +1,19 @@
+/*Css file for wewe import. I created the belt html file first to be able to print it for my shop and send it to MOM. My inventory is up to date.*/
+
+body {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: larger;
+    color: darkred;
+}
+nav {
+    height: 150px;
+
+}
+
+.flex-container {
+    display: flex;
+    align-items: flex-end;
+}
+footer {
+    background-color: chocolate;
+}
